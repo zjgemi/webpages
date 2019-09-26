@@ -500,7 +500,7 @@
   left:0px;
   top:0px;
   width:332px;
-  height:106px;
+  height:102px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   box-sizing:border-box;
@@ -518,7 +518,7 @@
   left:41px;
   top:106px;
   width:332px;
-  height:106px;
+  height:102px;
   display:flex;
 }
 #u12 .text {
@@ -594,8 +594,8 @@
 #u14 {
   border-width:0px;
   position:absolute;
-  left:136px;
-  top:155px;
+  left:244px;
+  top:131px;
   width:57px;
   height:15px;
   display:flex;
@@ -785,7 +785,7 @@
   border-width:0px;
   position:absolute;
   left:55px;
-  top:187px;
+  top:168px;
   width:117px;
   height:15px;
   display:flex;
@@ -993,7 +993,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:170px;
+  width:51px;
   height:19px;
   padding:3px 2px 3px 2px;
   font-family:'ArialMT', 'Arial';
@@ -1013,7 +1013,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:170px;
+  width:51px;
   height:19px;
   padding:3px 2px 3px 2px;
   font-family:'ArialMT', 'Arial';
@@ -1034,7 +1034,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:170px;
+  width:51px;
   height:19px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
@@ -1050,9 +1050,9 @@
 #u23 {
   border-width:0px;
   position:absolute;
-  left:198px;
-  top:130px;
-  width:170px;
+  left:193px;
+  top:129px;
+  width:51px;
   height:19px;
   display:flex;
 }
@@ -1068,7 +1068,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:170px;
+  width:51px;
   height:19px;
   background:inherit;
   background-color:rgba(240, 240, 240, 1);
@@ -1144,8 +1144,8 @@
 #u24 {
   border-width:0px;
   position:absolute;
-  left:198px;
-  top:153px;
+  left:301px;
+  top:128px;
   width:68px;
   height:22px;
   display:flex;
@@ -1271,7 +1271,7 @@
   border-width:0px;
   position:absolute;
   left:172px;
-  top:185px;
+  top:166px;
   width:132px;
   height:19px;
   display:flex;
@@ -1783,7 +1783,7 @@
   border-width:0px;
   position:absolute;
   left:315px;
-  top:187px;
+  top:168px;
   width:51px;
   height:15px;
   display:flex;
